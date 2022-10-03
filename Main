@@ -1,0 +1,26 @@
+<html>
+    <head>
+    </head>
+    <body>
+    <h1><i><strong>my first homepage</strong></i></h1>
+    </body>
+</html>
+<P></P>
+
+<table border="2">
+    <tr>
+    <td>Hi, my name is Pascal Kiddulat</td>    
+    </tr>
+<P></P>
+
+<table border="2">
+    <tr>
+    <td>this is my first page</td>    
+    </tr>
+<P></P>
+<table border="2">
+    <tr>
+    <td>with HTML</td>
+    </tr>
+<P></P> 
+</html>
